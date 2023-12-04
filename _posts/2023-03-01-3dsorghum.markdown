@@ -2,7 +2,7 @@
 layout: post
 title:  "3D Reconstruction-Based Seed Counting of Sorghum Panicles for Agricultural Inspection"
 date:   2023-03-01 03:50:36 +00:00
-image: /images/sorghum_model_crop.mov
+image: /images/sorghum.PNG
 categories: research
 author: "Harry Freeman"
 authors: "Harry Freeman, Eric Schneider, Chung Hee Kim, <strong>Moonyoung Lee</strong>, George Kantor"
@@ -13,4 +13,4 @@ youtube: https://youtu.be/WRiH6tLeXcg
 dataset: https://drive.google.com/drive/u/0/folders/1MXGWW-NE_rNC0Taw4pzL_QfbfEsyP-wG
 
 ---
-This paper presents a method for creating high-quality 3D models of sorghum panicles to estimate seed counts. This is acheived using seeds as semantic 3D landmarks for global registration and a novel density-based clustering approach. 
+We present a method for creating high-quality 3D models of sorghum panicles to estimate seed counts. This is acheived using seeds as semantic 3D landmarks for global registration and a novel density-based clustering approach. 

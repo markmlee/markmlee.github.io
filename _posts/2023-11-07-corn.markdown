@@ -12,4 +12,4 @@ code: https://github.com/aaronzberger/CMU_Find_Stalk
 website: https://kantor-lab.github.io/cornbot/
 youtube: https://youtu.be/Xk6A5zpNspQ
 ---
-Developement of robot platform that autonomously detects and inserts nitrate sensors into corn stalks. Robot deployed in cornfield in Iowa. 
+We present a robot platform that autonomously detects and inserts nitrate sensors into corn stalks. The robot was deployed in a cornfield in Iowa for evaluation. 
