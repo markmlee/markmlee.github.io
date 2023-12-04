@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Towards Robotic Tree Manipulation: Leveraging Graph Representations"
+date:   2023-09-01 03:50:36 +00:00
+image: /images/corn_robot.jpg
+categories: research
+author: "Chung Hee Kim"
+authors: "Chung Hee Kim, <strong>Moonyoung Lee</strong>, Oliver Kroemer, George Kantor"
+venue: "ICRA under review"
+arxiv: https://arxiv.org/abs/2311.07479
+website: https://kantor-lab.github.io/tree_gnn/
+youtube: https://youtu.be/FGtdYFe0W9A 
+
+---
+This paper presents a framework for learning the deformation behavior of trees under contact interaction. Graph neural network is used to learn the forward model and action policy to manipulate trees.
