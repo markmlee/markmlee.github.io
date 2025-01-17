@@ -6,7 +6,7 @@ image: /images/MDE.jpg
 categories: research
 author: "Alex Lagrassa"
 authors: "Alex Lagrassa, <strong>Moonyoung Lee</strong>, Oliver Kroemer"
-venue: "International Conference on Robotics and Automation (ICRA) under review"
+venue: "International Conference on Robotics and Automation (ICRA)"
 website: https://sites.google.com/view/active-mde/home
 
 ---

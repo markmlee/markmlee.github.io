@@ -6,7 +6,7 @@ image: /images/tree_gnn.jpg
 categories: research
 author: "Chung Hee Kim"
 authors: "Chung Hee Kim, <strong>Moonyoung Lee</strong>, Oliver Kroemer, George Kantor"
-venue: "International Conference on Robotics and Automation (ICRA) under review"
+venue: "International Conference on Robotics and Automation (ICRA)"
 arxiv: https://arxiv.org/abs/2311.07479
 website: https://kantor-lab.github.io/tree_gnn/
 youtube: https://youtu.be/FGtdYFe0W9A 
