@@ -2,7 +2,7 @@
 layout: post
 title:  "SonicBoom: Contact Localization Using Array of Microphones"
 date:   2024-12-01 03:50:36 +00:00
-image: /images/mapping_clean.jpg
+image: /images/mappingv2.jpg
 categories: research
 author: "Moonyoung Lee"
 authors: "<strong>Moonyoung Lee</strong>, Uksang Yoo, Jean Oh, Jeffrey Ichnowski, George Kantor, Oliver Kroemer"
