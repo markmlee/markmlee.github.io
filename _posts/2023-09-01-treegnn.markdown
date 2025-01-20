@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards Robotic Tree Manipulation: Leveraging Graph Representations"
 date:   2023-09-01 03:50:36 +00:00
-image: /images/tree_gnn.jpg
+image: /images/tree_gnn.gif
 categories: research
 author: "Chung Hee Kim"
 authors: "Chung Hee Kim, <strong>Moonyoung Lee</strong>, Oliver Kroemer, George Kantor"
