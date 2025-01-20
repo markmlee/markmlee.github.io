@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments"
 date:   2024-12-01 03:50:36 +00:00
-image: /images/mappingv2.jpg
+image: /images/mappingv2.gif
 categories: research
 author: "Moonyoung Lee"
 authors: "<strong>Moonyoung Lee</strong>, Uksang Yoo, Jean Oh, Jeffrey Ichnowski, George Kantor, Oliver Kroemer"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Task-Oriented Active Learning of Model Preconditions for Inaccurate Dynamics Models"
 date:   2023-09-01 03:50:36 +00:00
-image: /images/MDE.jpg
+image: /images/MDE.gif
 categories: research
 author: "Alex Lagrassa"
 authors: "Alex Lagrassa, <strong>Moonyoung Lee</strong>, Oliver Kroemer"
