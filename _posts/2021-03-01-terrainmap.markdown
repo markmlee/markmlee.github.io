@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamic Humanoid Locomotion Over Rough Terrain With Streamlined Perception-Control Pipeline"
 date:   2021-03-01 03:50:36 +00:00
-image: /images/terrain.jpg
+image: /images/walking.gif
 categories: research
 author: "Moonyoung Lee"
 authors: "<strong>Moonyoung Lee</strong>, Youngsun Kwon, Sebin Lee, JongHun Choe, Junyoung Park, Hyobin Jeong, Yujin Heo, Min-Su Kim, Jo Sungho, Sung-Eui Yoon, Jun-Ho Oh"
