@@ -2,7 +2,7 @@
 layout: post
 title:  "Fast Perception, Planning, and Execution for a Robotic Butler: Wheeled Humanoid M-Hubo"
 date:   2019-09-01 03:50:36 +00:00
-image: /images/mhubo.jpg
+image: /images/fetch.gif
 categories: research
 author: "Moonyoung Lee"
 authors: "<strong>Moonyoung Lee</strong>, Yujin Heo, Jinyong Park, Hyun-Dae Yang, Ho-Deok Jang, Philipp Benz, Hyunsub Park, In So Kweon, Jun-Ho Oh"
