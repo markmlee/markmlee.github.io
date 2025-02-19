@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments"
+title:  "SonicBoom: Contact Localization Using Array of Microphones"
 date:   2024-12-01 03:50:36 +00:00
 image: /images/mappingv2.gif
 categories: research
