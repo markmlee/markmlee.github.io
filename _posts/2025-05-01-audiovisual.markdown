@@ -2,7 +2,7 @@
 layout: post
 title:  "Audio-Visual Contact Classification for Tree Structures in Agriculture"
 date:   2025-05-01 03:50:36 +00:00
-image: /images/mappingv2.gif
+image: /images/audio.jpg
 categories: research
 author: "Moonyoung Lee"
 authors: "Ryan Spears*, <strong>Moonyoung Lee*</strong>, George Kantor, Oliver Kroemer"
