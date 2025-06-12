@@ -2,7 +2,7 @@
 layout: post
 title:  "Hearing the Slide: Acoustic-Guided Constraint Learning for Fast Non-Prehensile Transport"
 date:   2025-06-01 03:50:36 +00:00
-image: /images/audio.jpg
+image: /images/hearingslide.gif
 categories: research
 author: "Yuemin Mao"
 authors: "Yuemin Mao, Bardienus P. Duisterhof, <strong>Moonyoung Lee</strong>, Jeffrey Ichnowski"
